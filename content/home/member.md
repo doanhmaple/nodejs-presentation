@@ -1,0 +1,37 @@
++++
+weight = 10
++++
+
+### GIỚI THIỆU THÀNH VIÊN
+
+[~ NHÓM 8 ~](#)
+
+1714234 - HỨA ĐÌNH DOANH
+
+1710233 - ĐẶNG TRẦN HỮU NHÂN
+
+1710196 - NGUYỄN ĐĂNG KHOA
+
+1710289 - PHAN QUỐC TRUNG
+
+1710264 - HUỲNH LÊ HỮU THÀNH
+
+---
+
+#### NỘI DUNG TRÌNH BÀY
+
+- GIỚI THIỆU NODEJS
+
+- NODEJS CÓ THỂ LÀM GÌ?
+
+- CÀI ĐẶT NODEJS?
+
+- NODE RUNTIME?
+
+- SỰ KIỆN
+
+- FILE SYSTEM
+
+- NODE MODULES?
+
+- BUILD & DEPLOY
