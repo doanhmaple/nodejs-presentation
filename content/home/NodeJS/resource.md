@@ -8,14 +8,6 @@ custom_css = "css/custom.css"
 custom_js = "js/custom.js"
 +++
 
-## Demo
-
-<br>
-
-# ▶︎
-
----
-
 ### Tài liệu tham khảo
 
 - [Node.js Quickstart](https://fireship.io/courses/javascript/node-basics)

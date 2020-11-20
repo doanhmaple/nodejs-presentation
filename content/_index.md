@@ -1,5 +1,5 @@
 +++
-title = "NodeJS - Nhom8"
+title = "Nhóm 8 - NodeJS"
 description = "Presented by FO-TEAM"
 outputs = ["Reveal"]
 [reveal_hugo]
