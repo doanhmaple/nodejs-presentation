@@ -15,7 +15,7 @@ background = "#FF4081"
 
 #### PHÁT TRIỂN ỨNG DỤNG MÃ NGUỒN MỞ
 
-TÌM HIỂU VÀ XÂY DỰNG ỨNG DỤNG VỀ NODE.JS
+TÌM HIỂU VÀ XÂY DỰNG ỨNG DỤNG NODE.JS
 
 <br>
 

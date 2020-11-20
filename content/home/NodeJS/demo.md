@@ -8,12 +8,4 @@ Here the slide has an additional css class `custom` using `slide` *shortcode*. T
 
 If you click on this text background-color will using a custom javascript file. 
 
----
-
-# thans for wathcing!
-
----
-
-# ↩ 
-
-#### [Về trang đầu](#)
+--_

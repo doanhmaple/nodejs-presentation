@@ -24,14 +24,14 @@ weight = 10
 
 - NODEJS CÓ THỂ LÀM GÌ?
 
-- CÀI ĐẶT NODEJS?
+- CÀI ĐẶT NODEJS
 
-- NODE RUNTIME?
+- NODE RUNTIME
 
 - SỰ KIỆN
 
 - FILE SYSTEM
 
-- NODE MODULES?
+- NODE MODULES
 
 - BUILD & DEPLOY

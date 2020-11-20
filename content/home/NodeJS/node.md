@@ -4,7 +4,8 @@ weight = 30
 
 ### Node Runtime?
 
-NodeJS là môi trường runtime JavaScript với độ trễ thấp và thông lượng cao bằng cách thực hiện phương pháp “non-blocking” để cung cấp các yêu cầu. Nói cách khác, NodeJS không lãng phí thời gian hoặc tài nguyên khi chờ các yêu cầu I/O trả về.
+**NodeJS** là môi trường runtime JavaScript với độ trễ thấp và<br>
+thông lượng cao bằng cách thực hiện phương pháp “non-blocking” để cung cấp các yêu cầu. Nói cách khác, NodeJS không lãng phí thời gian hoặc tài nguyên khi chờ các yêu cầu I/O trả về.
 
 ---
 
@@ -17,11 +18,12 @@ Mỗi hành động trong máy tính được gọi là 1 sự kiện (event).
 npm run dev
 ```
 
-Ví dụ khi bạn đọc một tập tin trên ổ cứng, thì có nghĩa là bạn phải thực hiện 2 hành động "mở tập tin" và "đóng tập tin" sau khi đọc xong, như vậy ở đây chúng ta có 2 sự kiện `mở & đóng`
+Ví dụ khi bạn đọc một tập tin trên ổ cứng, thì có nghĩa là bạn phải thực hiện 2 hành động **"mở tập tin"** và **"đóng tập tin"** sau khi đọc xong, như vậy ở đây chúng ta có 2 sự kiện **mở & đóng**
 
 ---
 
-Dựa trên các sự kiện bạn có, chèn các mã của bạn<br> để làm một việc gì đó.
+Dựa trên các sự kiện bạn có, chèn các mã<br>
+của bạn để làm một việc gì đó.
 
 ```
  var fs = require('fs');
@@ -37,7 +39,10 @@ Dựa trên các sự kiện bạn có, chèn các mã của bạn<br> để là
 
 ---
 
-Module events cung cấp cho bạn lớp EventEmitter, nó là một lớp trung tâm trong NodeJS hỗ trợ định nghĩa ra một sự kiện, đăng ký các Listener (Đối tượng lắng nghe) sự kiện này, và phát ra (emit) sự kiện.
+Module events cung cấp cho bạn lớp EventEmitter,<br>
+nó là một lớp trung tâm trong **NodeJS** hỗ trợ định nghĩa<br>
+ra một sự kiện, đăng ký các Listener (Đối tượng lắng nghe)<br>
+sự kiện này, và phát ra (emit) sự kiện.
 
 ---
 

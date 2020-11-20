@@ -10,19 +10,22 @@ custom_js = "js/custom.js"
 
 ## Demo
 
+<br>
+
+# ▶︎
+
 ---
 
 ### Tài liệu tham khảo
 
-- [EVKey](https://github.com/lamquangminh/EVKey)
-- [Unikey](#)
-- [reveal-hugo Slide](https://github.com/dzello/reveal-hugo)
-- Deploy to [Netlify](https://netlify.com/)
-- Edit with [Forestry](https://forestry.io/)
+- [Node.js Quickstart](https://fireship.io/courses/javascript/node-basics)
+- [Modules](https://fireship.io/courses/javascript/concepts-modules)
+- [reveal.js presentation](https://github.com/dzello/reveal-hugo)
+- Deploy to [Netlify](https://netlify.com)
 
 ---
 
-# Cảm ơn thầy và các bạn đã lắng nghe!
+# Cảm ơn cô và các bạn đã lắng nghe!
 
 :D
 
