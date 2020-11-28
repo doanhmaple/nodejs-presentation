@@ -6,9 +6,4 @@ weight = 55
 
 <br>
 
-[Xây dựng trang web đơn giản cung cấp<br>
-API thời khoá biểu Trường Đại học Đà Lạt]()
-
----
-
-{{< slide background-image="/images/rest-api.png" background-color="#000000" >}}
+[Xây dựng ứng dụng đơn giản với Node.js]()

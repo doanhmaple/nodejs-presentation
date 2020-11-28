@@ -8,16 +8,27 @@ weight = 50
 Nó cung cấp các hàm có thể đưa vào ứng dụng nào đó.
 
 Bạn có thể tạo module của riêng mình và sử dụng nó với<br>
-nhiều ứng dụng khác nhau. Node.js có 1 bộ Built-in Module,<br>
+nhiều ứng dụng khác nhau. [Node.js](https://nodejs.org) có 1 bộ Built-in Module,<br>
 bạn có thể sử dụng luôn mà không cần cài đặt thêm gì nữa...
 
 ---
 
 #### Cách sử dụng module
 
-- Sử dụng **`require()`** với tên của module cần gọi
+- Sử dụng **`require()`** với tên module cần gọi
 
-- VD: **`const http = require('http');`**
+```
+// Ví dụ
+const http = require('http');
+```
 
--	Module trên là module http, là một module được xây dựng sẵn<br>
-trên Node, có thể sử dụng module thứ 3 trên trang **npmjs.com**
+-	Module trên là **module http**, là một module được xây dựng<br>
+sẵn trên Node, bạn cũng có thể cài đặt và sử dụng module<br>
+bên thứ 3 trên trang `npmjs.com`
+
+```
+// Ví dụ
+npm install express
+  const express = require(‘express’);
+```
+

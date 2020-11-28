@@ -12,8 +12,8 @@ weight = 20
 
 ![Runtime](/images/runtime.png)
 
-[Node.js](https://nodejs.org) là một runtime nó cho phép bạn chạy<br>
-Javascript trên Server. [Node.js](https://nodejs.org) ra đời vào năm 2009.
+[Node.js](https://nodejs.org) là một Runtime mà nó cho phép bạn chạy<br>
+JavaScript trên Server. [Node.js](https://nodejs.org) ra đời vào năm 2009.
 
 ---
 
