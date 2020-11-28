@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Reveal.js Hugo"
 theme = "reveal-hugo"
 
 [markup.goldmark.renderer]
