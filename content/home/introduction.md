@@ -17,6 +17,10 @@ Javascript trên Server. [Node.js](https://nodejs.org) ra đời vào năm 2009.
 
 ---
 
+#### GIỚI THIỆU NODEJS
+
+![nodejs](/images/nodejs.png)
+
 #### Node.js hoạt động như thế nào?
 
 ---

@@ -2,7 +2,7 @@
 weight = 10
 +++
 
-### GIỚI THIỆU THÀNH VIÊN
+#### GIỚI THIỆU THÀNH VIÊN
 
 [~ NHÓM 8 ~](#)
 
@@ -18,6 +18,8 @@ weight = 10
 
 ---
 
+{{< slide transition="zoom" transition-speed="fast" >}}
+
 #### GIỚI THIỆU ĐỀ TÀI
 
 ![Node](/images/nodejs.png)
@@ -28,16 +30,16 @@ weight = 10
 
 #### NỘI DUNG CHÍNH
 
-- 1. GIỚI THIỆU NODE.JS
+- Giới thiệu Node.js
 
-- 2. CÀI ĐẶT NODEJS
+- Cài đặt Node.js
 
-- 3. HIỂU HƠN VỀ NODE.JS RUNTIME
+- Hiểu hơn về Node Runtime
 
-- 4. EVENT (SỰ KIỆN) TRONG NODE.JS
+- Event (Sự kiện) Trong Node.js
 
-- 5. FILE SYSTEMS
+- File Systems
 
-- 6. NODE MODULES
+- Node Modules
 
-- 7. DEMO API-DLU WITH NODE.JS 
+- Demo API-DLU with Node.js 
