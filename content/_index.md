@@ -16,8 +16,6 @@ background = "#FF4081"
 
 #### PHÁT TRIỂN ỨNG DỤNG MÃ NGUỒN MỞ
 
-**~ TÌM HIỂU VÀ XÂY DỰNG ỨNG DỤNG NODE.JS ~**
-
 <br>
 
-~ presendted by [@FO-team](https://dzello.com/) ~
+~ GVHD: ThS. Trần Thị Phương Linh ~

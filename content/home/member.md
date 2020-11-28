@@ -18,18 +18,26 @@ weight = 10
 
 ---
 
-#### NỘI DUNG TRÌNH BÀY
+#### GIỚI THIỆU ĐỀ TÀI
 
-- GIỚI THIỆU NODE.JS
+![Node](/images/nodejs.png)
 
-- NODE.JS CÓ THỂ LÀM GÌ?
+**TÌM HIỂU VÀ XÂY DỰNG ỨNG DỤNG NODE.JS**
 
-- CÀI ĐẶT NODEJS
+---
 
-- NODE RUNTIME
+#### NỘI DUNG CHÍNH
 
-- EVENT (SỰ KIỆN)
+- 1. GIỚI THIỆU NODE.JS
 
-- NODE MODULES
+- 2. CÀI ĐẶT NODEJS
 
-- BUILD & DEPLOY
+- 3. HIỂU HƠN VỀ NODE.JS RUNTIME
+
+- 4. EVENT (SỰ KIỆN) TRONG NODE.JS
+
+- 5. FILE SYSTEMS
+
+- 6. NODE MODULES
+
+- 7. DEMO API-DLU WITH NODE.JS 
