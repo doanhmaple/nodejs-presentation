@@ -32,14 +32,14 @@ weight = 10
 
 - Giới thiệu Node.js
 
-- Cài đặt Node.js
-
-- Hiểu hơn về Node Runtime
+- Node.js Runtime
 
 - Event (Sự kiện) Trong Node.js
 
 - File Systems
 
 - Node Modules
+
+- Cài đặt Node.js
 
 - Demo API-DLU with Node.js 

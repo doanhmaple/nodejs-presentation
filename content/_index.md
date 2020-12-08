@@ -19,8 +19,6 @@ background = "#FF4081"
 
 <br>
 
-**~ GVHD: ThS. Trần Thị Phương Linh ~**
-
-<br>
+GVHD: [ThS. Trần Thị Phương Linh](#)
 
 [~ @fo-team](https://github.com/team-fullstack-overflow) trình bày ~

@@ -6,7 +6,7 @@ weight = 20
 
 ![nodejs](/images/nodejs.png)
 
-#### Node.js là gì?
+**NODE.JS LÀ GÌ?**
 
 ---
 
@@ -17,15 +17,15 @@ JavaScript trên Server. [Node.js](https://nodejs.org) ra đời vào năm 2009.
 
 ---
 
-#### GIỚI THIỆU NODEJS
+#### GIỚI THIỆU NODE.JS
 
-![nodejs](/images/nodejs.png)
+![Nodejs](/images/nodejs.png)
 
-#### Node.js hoạt động như thế nào?
+**NODE.JS HOẠT ĐỘNG NHƯ THẾ NÀO?**
 
 ---
 
-![node-run](/images/node-run.png)
+![Node-run](/images/node-run.png)
 
 Khi người dùng truy cập vào một URL trên internet<br>
 trỏ tới một server Node.js. Node.js sẽ xử lí request đó,<br>

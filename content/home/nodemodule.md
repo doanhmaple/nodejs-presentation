@@ -2,13 +2,19 @@
 weight = 50
 +++
 
+{{% section %}}
+
 #### Node Module
 
-[Node Module](https://nodejs.org/api/modules.html) là tập hợp các thư viện trong JavaScript.<br>
-Nó cung cấp các hàm có thể đưa vào ứng dụng nào đó.
+![NPM](/images/npm.png)
+
+---
+
+[Node Module](https://nodejs.org/api/modules.html) là tập hợp các thư viện trong **JavaScript.**<br>
+Nó cung cấp các hàm để bạn có thể đưa vào một ứng dụng.
 
 Bạn có thể tạo module của riêng mình và sử dụng nó với<br>
-nhiều ứng dụng khác nhau. [Node.js](https://nodejs.org) có 1 bộ Built-in Module,<br>
+nhiều ứng dụng khác nhau. [Node.js](https://nodejs.org) có 1 bộ *Built-in Module*,<br>
 bạn có thể sử dụng luôn mà không cần cài đặt thêm gì nữa...
 
 ---
@@ -32,3 +38,4 @@ npm install express
   const express = require(‘express’);
 ```
 
+{{% /section %}}

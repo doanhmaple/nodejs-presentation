@@ -1,20 +1,32 @@
 +++
-weight = 22
+weight = 52
 +++
+
+{{% section %}}
 
 #### Cài đặt Node.js
 
-Việc cài đặt **NodeJS** khá đơn giản, bạn có thể<br>
-vào trang chủ của **NodeJS** để tải về và cài đặt,…
+Việc cài đặt [Node.js](https://nodejs.org) khá đơn giản, bạn vào trang chủ<br>
+của [Node.js](https://nodejs.org), chọn phiên bản phù hợp với hệ điều hành<br>
+của máy mình rồi tải về và cài đặt thôi,…
+
+![Install](/images/install.png)
+
+---
 
 Để kiểm tra xem việc cài đặt đã thành công hay chưa, bạn mở **Termnial** hoặc **Command Prompt (CMD)** và gõ các lệnh sau:
 
-{{% fragment %}} - Kiểm tra phiên bản của **nodejs** {{% /fragment %}}
+Kiểm tra phiên bản **nodejs**
+```markdown
+node -v
+> v15.2.0
+```
 
-{{% fragment %}} `node -v` {{% /fragment %}}
-{{% fragment %}} {{% /fragment %}}
+Kiểm tra phiên bản **npm**
 
-{{% fragment %}} - Kiểm tra phiên bản của **npm** {{% /fragment %}}
+```markdown
+npm -v
+> v7.1.0
+```
 
-{{% fragment %}} `npm -v` {{% /fragment %}}
-{{% fragment %}} {{% /fragment %}}
+{{% /section %}}
