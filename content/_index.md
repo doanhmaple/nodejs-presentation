@@ -12,10 +12,15 @@ transition_speed = "fast"
 class = "hotpink"
 background = "#FF4081"
 +++
+
 #### BÁO CÁO MÔN HỌC
 
 #### PHÁT TRIỂN ỨNG DỤNG MÃ NGUỒN MỞ
 
 <br>
 
-~ GVHD: ThS. Trần Thị Phương Linh ~
+**~ GVHD: ThS. Trần Thị Phương Linh ~**
+
+<br>
+
+[~ @fo-team](https://github.com/team-fullstack-overflow) trình bày ~

@@ -4,7 +4,7 @@ weight = 50
 
 #### Node Module
 
-[Node Module]() là tập hợp các thư viện trong JavaScript.<br>
+[Node Module](https://nodejs.org/api/modules.html) là tập hợp các thư viện trong JavaScript.<br>
 Nó cung cấp các hàm có thể đưa vào ứng dụng nào đó.
 
 Bạn có thể tạo module của riêng mình và sử dụng nó với<br>
@@ -24,7 +24,7 @@ const http = require('http');
 
 -	Module trên là **module http**, là một module được xây dựng<br>
 sẵn trên Node, bạn cũng có thể cài đặt và sử dụng module<br>
-bên thứ 3 trên trang `npmjs.com`
+bên thứ 3 trên trang [npmjs.com](https://www.npmjs.com)
 
 ```
 // Ví dụ
